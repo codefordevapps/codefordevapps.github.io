@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37b71f6002924595d06734925ad28bdf",
+    "revision": "31fe1baea5a24f69aa888244275c1910",
     "url": "/index.html"
   },
   {
-    "revision": "3d2affe3f34ec8572fb1",
-    "url": "/static/css/main.e9b3cb20.chunk.css"
+    "revision": "5ab602eebac7640bdfe4",
+    "url": "/static/css/main.f8a27483.chunk.css"
   },
   {
-    "revision": "a6ff79f6c3d7ecd84179",
-    "url": "/static/js/2.db1bd97a.chunk.js"
+    "revision": "8fde51e4c6cb3d705f21",
+    "url": "/static/js/2.8ed73eeb.chunk.js"
   },
   {
-    "revision": "3d2affe3f34ec8572fb1",
-    "url": "/static/js/main.1577f0d8.chunk.js"
+    "revision": "5ab602eebac7640bdfe4",
+    "url": "/static/js/main.989f7e52.chunk.js"
   },
   {
     "revision": "0e333de79297dc929c3d",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "40fd25b8a68521da5f3f736cdfbd8a63",
     "url": "/static/media/login2.40fd25b8.png"
+  },
+  {
+    "revision": "ed0a660db996bc4efb3838d834274201",
+    "url": "/static/media/reactjsLoginScreen.ed0a660d.PNG"
   },
   {
     "revision": "c647cfbe402d0c8ba26b1c34c02eedc2",
